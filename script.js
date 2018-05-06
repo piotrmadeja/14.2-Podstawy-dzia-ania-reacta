@@ -9,7 +9,7 @@ var movies = [
     id: 2,
     title: 'Król Lew',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute',
-    imgSrc: 'images/Harry.jpg'
+    imgSrc: 'images/lionking.jpg'
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ var movies = [
     id: 5,
     title: 'Dracula',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute',
-    imgSrc: 'images/Harry.jpg'
+    imgSrc: 'images/dracula.jpg'
   },
   {
     id: 6,
