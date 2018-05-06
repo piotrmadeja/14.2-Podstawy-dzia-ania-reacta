@@ -3,7 +3,7 @@ var movies = [
     id: 1,
     title: 'Harry Potter',
     desc: 'Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School of Witchcraft and Wizardry. ',
-    imgSrc: 'images/Harry.jpg'
+    imgSrc: 'images/harry.jpg'
   },
   {
     id: 2,
