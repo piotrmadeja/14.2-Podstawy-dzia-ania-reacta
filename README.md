@@ -1,1 +1,1 @@
-# 14.2-Podstawy-dzia-ania-reacta
+https://piotrmadeja.github.io/14.2-Podstawy-dzia-ania-reacta/. 
